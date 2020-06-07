@@ -1,0 +1,30 @@
+{
+  "name": "create-react-app-no-template",
+  "version": "1.0.2",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "no-template",
+    "webpack",
+    "webpack hmr"
+  ],
+  "author": "Venkata Harish Kumar Mamidi",
+  "description": "This will delete pre-loaded initial code that was shipped with the CRA, which of course can be deleted in few seconds, but why to waste the time, to simply describe it is Hello World React App",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvhk/create-react-app-no-template.git",
+    "directory": "packages/cra-template"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/mvhk/create-react-app-no-template/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
