@@ -1,10 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**Usage**
-### `npx create-react-app [app-name] --template notemplate`
+In terminal/Command Prompt:
 
-**Example** 
+### `npx create-react-app [app-name] --template notemplate`
+**Usage**
+
 ### `npx create-react-app my-app --template notemplate`
+**Example**
 
 This will **delete** pre-loaded initial code that was shipped with the CRA, which of course can be deleted in a second, but why to waste the time, to simply describe it is a `Hello World React App`
 
