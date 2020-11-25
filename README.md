@@ -1,3 +1,7 @@
+# create-react-app-no-template
+
+![CodeQL](https://github.com/mvhk/create-react-app-no-template/workflows/CodeQL/badge.svg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In terminal/Command Prompt:
